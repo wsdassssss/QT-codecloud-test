@@ -28,11 +28,13 @@ CONFIG += c++11
 SOURCES += \
         main.cpp \
         mainwindow.cpp \
-    login.cpp
+    login.cpp \
+    wqwe.cpp
 
 HEADERS += \
         mainwindow.h \
-    login.h
+    login.h \
+    wqwe.h
 
 FORMS += \
         mainwindow.ui \
